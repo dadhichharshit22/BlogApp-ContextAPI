@@ -4,7 +4,7 @@ import './spinner.css'
 const spinner = () => {
   return (
     <div>
-      <div className='custom-loader'></div>
+      <div className='custom-loader justify-center items-center'></div>
     </div>
   )
 }
